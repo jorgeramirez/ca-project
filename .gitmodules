@@ -1,0 +1,3 @@
+[submodule "SF-ID-Network-For-NLU"]
+	path = SF-ID-Network-For-NLU
+	url = git@github.com:jorgeramirez/SF-ID-Network-For-NLU.git
