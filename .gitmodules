@@ -1,3 +1,9 @@
 [submodule "SF-ID-Network-For-NLU"]
 	path = SF-ID-Network-For-NLU
-	url = git@github.com:ZephyrChenzf/SF-ID-Network-For-NLU.git
+	url = git@github.com:jorgeramirez/SF-ID-Network-For-NLU.git
+[submodule "Capsule-NLU"]
+	path = Capsule-NLU
+	url = git@github.com:jorgeramirez/Capsule-NLU.git
+[submodule "SlotGated-SLU"]
+	path = SlotGated-SLU
+	url = git@github.com:jorgeramirez/SlotGated-SLU.git
