@@ -6,4 +6,4 @@ python train.py --dataset=atis --priority_order=slot_first --use_crf=True > /tmp
 
 
 # using glove embeddings
-python train.py --dataset=atis --priority_order=slot_first --use_crf=True --embedding_path=../glove.6B/glove.6B.300d.txt > /tmp/train_sfid.log 2>&1 &
+python train.py --dataset=atis --priority_order=slot_first --use_crf=True --embed_dim=300 --embedding_path=../glove.6B/glove.6B.300d.txt > /tmp/train_sfid.log 2>&1 &
