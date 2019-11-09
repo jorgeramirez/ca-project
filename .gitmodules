@@ -4,3 +4,6 @@
 [submodule "Capsule-NLU"]
 	path = Capsule-NLU
 	url = git@github.com:jorgeramirez/Capsule-NLU.git
+[submodule "SlotGated-SLU"]
+	path = SlotGated-SLU
+	url = git@github.com:jorgeramirez/SlotGated-SLU.git
