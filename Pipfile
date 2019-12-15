@@ -7,6 +7,12 @@ verify_ssl = true
 
 [packages]
 autopep8 = "*"
+bert-serving-server = "*"
+bert-serving-client = "*"
+jupyterlab = "*"
+matplotlib = "*"
+pandas = "*"
+seaborn = "*"
 
 [requires]
 python_version = "3.7"
